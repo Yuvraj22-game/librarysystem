@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Library</string>
+    <string name="my_borrowed_books">My Borrowed Books</string>
+    <string name="search_hint">Search by title...</string>
+    <string name="no_books_found">No books found</string>
+    <string name="no_borrowed_books">You have not borrowed any books yet.</string>
+</resources>

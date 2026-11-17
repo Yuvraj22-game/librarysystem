@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#673AB7</color>
+    <color name="purple_700">#512DA8</color>
+    <color name="purple_100">#EDE7F6</color>
+    <color name="purple_50">#F3E5F5</color>
+
+    <color name="status_available">#2E7D32</color>
+    <color name="status_borrowed">#C62828</color>
+
+    <color name="background_light">#F5F6FA</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <color name="text_primary">#1F1B24</color>
+    <color name="text_secondary">#666666</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
